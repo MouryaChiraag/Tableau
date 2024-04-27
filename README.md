@@ -1,1 +1,3 @@
 I acquired proficiency in Tableau by actively engaging with and implementing a variety of concepts, such as creating diverse charts like bar charts, line charts, and scatterplots, as well as employing features like hierarchies, dual axis charts, and histograms. Additionally, I mastered various functions including string manipulation, numeric operations, date handling, and logical operations to enhance data analysis in Tableau. Moreover, I demonstrated my ability to generate visually appealing and comprehensible Dashboards, aligning with the core objective of Tableau usage.
+
+Demonstrated Link - https://public.tableau.com/app/profile/p.mourya.chiraag.balaji/vizzes
